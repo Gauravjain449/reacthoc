@@ -9,7 +9,7 @@ function App() {
   return (
     <div className="App">
       <File1 city="Ludhiana" />
-      <File2 city="Nasik" />
+      <File2 city="Gurgaon" />
       <BookList />
       <Bookdetails />
     </div>
