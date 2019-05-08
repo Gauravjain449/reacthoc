@@ -1,0 +1,15 @@
+A Higher Order component is a technique for resusing component logic.
+A HOC is function that takes component and return a component.
+rcc (short cut for react component), rrc(short cut for react component with redux)
+Reducers manage the states.
+
+Container is a part of redux. Container is a react component which directly connected to the states. When
+we inject the state in to react component it become a Container and it's also called smart component.
+
+Bindactioncreator tells the all reducer which action has to perform.
+
+redux doesnot support undefined values i.e. reducer_function(state=nullmaction)
+
+
+
+
