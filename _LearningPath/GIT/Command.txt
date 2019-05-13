@@ -1,1 +1,7 @@
 https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+
+
+git checkout test
+git pull origin master
+git checkout master
+git merge test
