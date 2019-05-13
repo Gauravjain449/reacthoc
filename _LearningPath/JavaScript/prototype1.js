@@ -13,9 +13,6 @@ Mobile.prototype.z = 30;
 var m = new Mobile();
 console.log(m.a);
 
-
-
-
 var l = new laptop()
 console.log(l.b);
 console.log(l.a);

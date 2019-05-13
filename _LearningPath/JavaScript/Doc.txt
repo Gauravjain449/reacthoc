@@ -11,6 +11,14 @@ https://www.youtube.com/watch?v=WooWDj9q188&list=PLbGui_ZYuhiiaQjuOfvgx_-gzVBlCx
 
 https://www.youtube.com/watch?v=YvBfk1U2c98&list=PLbGui_ZYuhiiaQjuOfvgx_-gzVBlCxrk0&index=51
 
+https://github.com/ganqqwerty/123-Essential-JavaScript-Interview-Questions
+
+
+There are two important points in the traditional definition of Singleton pattern:
+
+There should be only one instance allowed for a class and
+We should allow global point of access to that single instance
+
 
 
 
