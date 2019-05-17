@@ -6,7 +6,7 @@ class File2 extends Component {
     render() {
         return (
             <div>
-                Ankita Ray {this.props.city} {this.props.hoccount}
+                Ankita Aswal {this.props.city} {this.props.hoccount}
                 <button onMouseOver={this.props.hochandleClick}>Click</button>
             </div>
         );
